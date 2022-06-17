@@ -7,4 +7,14 @@ Installation:
 3. Run the code eg php artisan serv. 
 
 
-The project uses Guzzle HTTP client, which is provided by laravel for making outgoing HTTP requests easily. This is because the library makes it easy to fetch the data, run parallel requests and error handling. 
+The project uses Guzzle HTTP client, which is provided by laravel for making outgoing HTTP requests easily. This is because the library makes it easy to fetch the data, run parallel requests and error handling.
+
+
+
+the endpoints are 
+1. url/v1/endpoint1 for the first task
+2. url/v1/endpoint2 for the second task
+3. url/v1/endpoint3 for the third task
+
+
+
