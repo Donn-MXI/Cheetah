@@ -12,9 +12,9 @@ The project uses Guzzle HTTP client, which is provided by laravel for making out
 
 
 the endpoints are 
-1. url/v1/endpoint1 for the first task
-2. url/v1/endpoint2 for the second task
-3. url/v1/endpoint3 for the third task
+1. /api/v1/endpoint1 for the first task
+2. /api/v1/endpoint2 for the second task
+3. /api/v1/endpoint3 for the third task
 
 
 
