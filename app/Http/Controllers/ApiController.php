@@ -17,7 +17,6 @@ class ApiController extends Controller
 
         $response = Http::get('https://hacker-news.firebaseio.com/v0/newstories.json?print=pretty');
 
-
         if($response->successful() == true){
 
             $items = array();
